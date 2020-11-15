@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'roboto', sans-serif;
+  margin: 2em;
+  background-color: #e6ccff;
+  color:#666699;
+}
+
+h1 {
+  font-family: 'B612', sans-serif;
+  color:#666699;
+}
+
+.drawing {
+  width:70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+}
+
+.photos {
+  width:65%;
+  float: left;
+  padding-right:10px;
+  max-width:600px;
+}
+
+.website {
+  text-align: center;
+}
